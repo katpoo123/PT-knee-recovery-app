@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "JointOps",
+    "slug": "jointops",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0D0D0D",
+    "icon": "./assets/icon.png",
+    "scheme": "jointops",
+    "platforms": ["ios", "android", "web"],
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a241c"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jointops.app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.jointops.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a241c"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
