@@ -2,6 +2,7 @@
 node_modules/
 
 # Expo
+.expo
 .expo/
 dist/
 web-build/
@@ -45,6 +46,7 @@ yarn-error.*
 *.pem
 
 # IDE
+.idea
 .idea/
 .vscode/
 *.iml
