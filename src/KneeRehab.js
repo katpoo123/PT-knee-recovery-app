@@ -78,7 +78,7 @@ export default function KneeRehab() {
             <Text style={{ color: phase.color }}>Recovery Plan</Text>
           </Text>
           <Text style={styles.subtitle}>
-            Partial meniscectomy (flap removal) · Serious athlete track
+            Partial meniscectomy (flap removal) · Aggresive Athlete Recovery Pacing
           </Text>
         </View>
 
