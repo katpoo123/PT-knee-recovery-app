@@ -4,8 +4,8 @@ export const phases = [
     name: "Phase 1",
     subtitle: "Restore & Protect",
     weeks: "Weeks 1–3",
-    color: "#4ECDC4",
-    accent: "#2BAE9C",
+    color: "#FF8C42",
+    accent: "#E67332",
     goal: "Reduce swelling, restore range of motion, activate the quad and VMO without loading the joint.",
     note: "Focus on quality over intensity. No pain — discomfort is okay, sharp pain is not.",
     exercises: [
@@ -65,8 +65,8 @@ export const phases = [
     name: "Phase 2",
     subtitle: "Load & Stabilize",
     weeks: "Weeks 4–8",
-    color: "#F7B731",
-    accent: "#E5A020",
+    color: "#FACC15",
+    accent: "#E5B800",
     goal: "Progressive weight-bearing, single-leg stability, introduce functional movement patterns.",
     note: "Begin when: full extension restored, flexion past 120°, minimal swelling, quad firing reliably.",
     exercises: [
@@ -133,8 +133,8 @@ export const phases = [
     name: "Phase 3",
     subtitle: "Return to Sport",
     weeks: "Weeks 9–16+",
-    color: "#FF6B6B",
-    accent: "#E05555",
+    color: "#4ADE80",
+    accent: "#22C55E",
     goal: "Restore full strength, power, and sport-specific movement. Gradual return to running and athletic activity.",
     note: "Begin when: single-leg squat with good form, no swelling after Phase 2 workouts, cleared by PT/surgeon.",
     exercises: [
